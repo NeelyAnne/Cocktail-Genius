@@ -1,6 +1,6 @@
 # Cocktail-Genius
 
-Deployed at:  https://barryae.github.io/Cocktail-Genius/
+Deployed at:  https://neelyanne.github.io/Cocktail-Genius/
 
 Project Title:
 - Cocktail Genius
